@@ -1,7 +1,7 @@
 # kor2vec
   Library for Korean morpheme and word vector representation.
 
-- Paper : 
+- Paper : http://kiise.or.kr/e_journal/2018/5/JOK/pdf/04.pdf
 
 ## Requirements
 For training,
